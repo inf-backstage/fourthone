@@ -1,0 +1,8 @@
+site_name: "fourthone"
+site_description: "fourthone example description"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
